@@ -1,0 +1,21 @@
+.elementor-1304 .elementor-element.elementor-element-0e309bf .elementor-spacer-inner{height:50px;}.elementor-1304 .elementor-element.elementor-element-72b8e72{text-align:center;}.elementor-1304 .elementor-element.elementor-element-72b8e72 .elementor-heading-title{color:#FDD325;font-family:"Rubik", Sans-serif;font-size:4em;font-weight:300;}.elementor-1304 .elementor-element.elementor-element-1f3837e .elementor-spacer-inner{height:50px;}/* Start custom CSS *//** WPFORMS WPFORMSLABEL **/
+.wpforms-form label{
+ color: white!important; 
+}
+ 
+ /** WPFORMS BUTTON COLOR **/
+.wpforms-form button{
+ background-color:rgb(8, 152, 166)!important; 
+}
+ 
+/** WPFORMS SUBMIT BUTTON **/
+button.wpforms-submit{
+ color:#FFFFFF!important; 
+ background-color:#801715 !important; 
+}
+ 
+/** WPFORMS SUBMIT BUTTON Hover **/
+button.wpforms-submit:hover{
+ color: white!important; 
+ background-color: rgb(242, 163, 8)!important; 
+}/* End custom CSS */
